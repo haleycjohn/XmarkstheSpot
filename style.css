@@ -1,12 +1,22 @@
-h1 {
-  background-color: #4254DD;
-  padding: 20px;
+.header {
+  padding: 30px;
   text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  margin: 0;
+}
+body {
+  text-align: center;
+  font-family: sans-serif;
 }
 .button1 {
+  display: block;
   color: white;
-  background-color: #4254DD;
-  text-align: center;
-  padding: 5px;
-  font: helvetica;
+  border: none;
+  background-color: #1abc9c;
+  margin: 30px auto;
+  padding: 8px 14px;
+  font-size: 14px;
+  border-radius: 18px;
 }
