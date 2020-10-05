@@ -3,3 +3,10 @@ h1 {
   padding: 20px;
   text-align: center;
 }
+.button1 {
+  color: white;
+  background-color: #4254DD;
+  text-align: center;
+  padding: 5px;
+  font: helvetica;
+}
